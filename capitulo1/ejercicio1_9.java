@@ -1,5 +1,5 @@
 /* Ejercicio 1.9
-Dadas las siguientes expresiones aritnméticas, calcule cuál es el resultadod e evaluarlas.
+Dadas las siguientes expresiones aritméticas, calcule cuál es el resultadod e evaluarlas.
 a = "25+20-15",
 b = "20*10+15*10",
 c = "20*10/2-20/5*3",

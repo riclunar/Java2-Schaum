@@ -1,5 +1,5 @@
-/* Ejercicio 18
-Escriba un programa que escriba en la pantalla cuánto le sará su banco después de 6 meses si pone  2000$
+/* Ejercicio 1.8
+Escriba un programa que escriba en la pantalla cuánto le dará su banco después de 6 meses si pone  2000$
 en una cuenta a lazo fijo de 2.75% anual. Recuerde que al pagarle los intereses el banco le retenrá el 18% para hacienda.
 Escriba los mensajes apropiados para entender todos los cálculos. */
 
